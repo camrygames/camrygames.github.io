@@ -1,2 +1,3 @@
 name: All About Camry!
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
